@@ -41,14 +41,19 @@ I craft solutions that matter—from robust backend systems that power seamless 
 - 🚀 Build real-world projects that solve actual problems
 - 🤝 Keep developing good habits as a coder and teammate
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
+💼 **Professional**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbeytour)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beytour.safae@gmail.com)
 
-📧 beytour.safae@gmail.com
+✉️ **Email Me**
+[beytour.safae@gmail.com](mailto:beytour.safae@gmail.com)
+
+---
+
+*Open to opportunities, collaborations, and interesting conversations!*
 
 </div>
 
