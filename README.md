@@ -37,16 +37,9 @@ I craft solutions that matter—from robust backend systems that power seamless 
 
 ## 📈 Current Goals
 
-```mermaid
-graph LR
-    A[🎯 Learning Fundamentals] --> B[🚀 Build Real Projects]
-    --> C[🤝 Grow as Developer]
-    --> D[♾️ Never Stop Learning]
-```
-
-- 🎯 **Deepen Technical Mastery** – Strengthening core foundations
-- 🚀 **Ship Real Solutions** – Building projects that solve actual problems
-- 🤝 **Cultivate Best Practices** – Growing as both a coder and collaborator
+- 🎯 Improve my technical foundations
+- 🚀 Build real-world projects that solve actual problems
+- 🤝 Keep developing good habits as a coder and teammate
 
 ## 📫 Connect With Me
 
