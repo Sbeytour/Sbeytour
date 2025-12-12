@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Full-Stack Developer who sees code as a canvas for creativity and problem-solving. Every line I write is part of a journey—one where curiosity drives innovation, teamwork sparks collaboration, and continuous learning fuels growth. I transform ideas into tangible solutions, one commit at a time.
+I'm a Full-Stack Developer who sees code as a canvas for creativity and problem-solving. Every line I write is part of a journey, one where curiosity drives innovation, teamwork encourages collaboration, and continuous learning keeps me growing. I transform ideas into real solutions, one commit at a time.
 
 ## ✨ About Me
 
@@ -28,7 +28,10 @@ const safae = {
 
 ## 🛠 What I Build
 
-I craft solutions that matter—from robust backend systems that power seamless experiences to intuitive interfaces that users love. Each project is a playground for:
+I enjoy working on projects that help me improve my logic, structure my thinking, and explore new tools.
+From backend logic to clean and simple user interfaces, I try to focus on learning and building things with purpose.
+
+Each project is a playground for:
 
 - 🧩 **Problem-Solving** – Breaking down complexity into elegant solutions
 - 🏗️ **Architecture** – Building scalable, maintainable systems
