@@ -45,8 +45,8 @@ I craft solutions that matter—from robust backend systems that power seamless 
 
 <div align="center">
 
-💼 **Professional**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbeytour)
+💼 **LinkedIn**
+[linkedin.com/in/sbeytour](https://linkedin.com/in/sbeytour)
 
 ✉️ **Email Me**
 [beytour.safae@gmail.com](mailto:beytour.safae@gmail.com)
